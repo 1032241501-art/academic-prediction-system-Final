@@ -72,8 +72,8 @@ st.markdown("""
 # PROJECT DETAILS FOR CREDITS
 # --------------------------------------------------
 STUDENT_NAME = "Aayush Chetan Gore"
-COLLEGE_NAME = "Your College Name"
-SUBJECT_NAME = "BAI (Basic AI)"
+COLLEGE_NAME = "Thakur College of Engineering and Technology"
+SUBJECT_NAME = "BAI (Basics of Artificial Intelligence)"
 
 # --------------------------------------------------
 # HELPER FUNCTIONS
